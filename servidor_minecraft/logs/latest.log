@@ -2338,3 +2338,42 @@ java.util.ConcurrentModificationException: null
 [22:12:59] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
 [22:13:08] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate Milkawhy
 [22:13:08] [Server thread/INFO]: [Milkawhy: Teleported LosTomate to Milkawhy]
+[22:13:46] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/wither_sickles
+[22:13:46] [Server thread/INFO]: [Milkawhy: Running function vred:give/wither_sickles]
+[22:14:07] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/reaper_scythe
+[22:14:07] [Server thread/INFO]: [Milkawhy: Running function vred:give/reaper_scythe]
+[22:14:31] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo Milkawhy
+[22:14:31] [Server thread/INFO]: [Milkawhy: Teleported ashixo to Milkawhy]
+[22:15:30] [Server thread/INFO]: LosTomate fell from a high place
+[22:15:34] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate Milkawhy
+[22:15:34] [Server thread/INFO]: [Milkawhy: Teleported LosTomate to Milkawhy]
+[22:16:03] [Server thread/INFO]: Milkawhy issued server command: /msg ashixo utilise pas ta scythe pour dps !
+[22:16:11] [Server thread/INFO]: Milkawhy issued server command: /msg ashixo utilise la une seul fois pour regen tes pv
+[22:17:59] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/magma_club
+[22:17:59] [Server thread/INFO]: [Milkawhy: Running function vred:give/magma_club]
+[22:18:07] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/magma_club
+[22:18:07] [Server thread/INFO]: [Milkawhy: Running function vred:give/magma_club]
+[22:18:18] [Server thread/INFO]: Milkawhy issued server command: /tps
+[22:19:06] [Server thread/INFO]: jambeto was obliterated by a sonically-charged shriek
+[22:19:06] [Server thread/ERROR]: No key memories in MapLike[{}]
+[22:19:23] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:19:23] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:19:25] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:19:25] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:19:32] [Server thread/INFO]: LosTomate was slain by ashixo using [Dragon Katana]
+[22:19:43] [Server thread/INFO]: Milkawhy issued server command: /effect clear ashixo
+[22:19:43] [Server thread/INFO]: [Milkawhy: Removed every effect from ashixo]
+[22:19:53] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:19:53] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:20:20] [Server thread/INFO]: ashixo lost connection: Disconnected
+[22:20:20] [Server thread/INFO]: [-] ashixo
+[22:20:52] [User Authenticator #12/INFO]: UUID of player ashixo is 89a6aae2-e3e4-3734-a824-cc7949d50cb7
+[22:21:09] [Server thread/INFO]: [DriveBackupV2] Enabling automatic backups
+[22:21:09] [Server thread/INFO]: [+] ashixo
+[22:21:09] [Server thread/INFO]: ashixo[/127.212.68.96:48005] logged in with entity id 81381 at ([world]-9917.453227836528, 73.5, 4886.5129148029)
+[22:21:13] [Server thread/INFO]: jambeto was slain by LosTomate using [Wither Sickles]
+[22:21:15] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:21:15] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:22:52] [Server thread/INFO]: Milkawhy issued server command: /tps
+[22:23:04] [Server thread/INFO]: Milkawhy issued server command: /tps
+[22:23:41] [Server thread/INFO]: jambeto was slain by ashixo using [Magma Club]
