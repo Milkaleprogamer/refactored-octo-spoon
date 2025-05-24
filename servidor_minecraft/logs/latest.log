@@ -2831,3 +2831,37 @@ java.util.ConcurrentModificationException: null
 [23:24:13] [Server thread/INFO]: Milkawhy issued server command: /attribute mangaky minecraft:generic.scale base set 100
 [23:24:14] [Server thread/INFO]: Milkawhy issued server command: /attribute mangaky minecraft:generic.scale base set 1
 [23:24:16] [Server thread/INFO]: mangaky issued server command: /setspawn:spawn
+[23:24:39] [Server thread/INFO]: Milkawhy issued server command: /kick mangaky
+[23:24:39] [Server thread/INFO]: mangaky lost connection: Kicked by an operator
+[23:24:39] [Server thread/INFO]: [-] mangaky
+[23:24:39] [Server thread/INFO]: [Milkawhy: Kicked mangaky: Kicked by an operator]
+[23:25:15] [Server thread/INFO]: LosTomate has made the advancement [Stone Age]
+[23:25:30] [User Authenticator #16/INFO]: UUID of player mangaky is a5159b13-57f9-3d9b-9362-ffacd38ac95e
+[23:25:56] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[23:25:56] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[23:25:56] [Server thread/INFO]: [+] mangaky
+[23:25:56] [Server thread/INFO]: mangaky[/127.163.80.5:53371] logged in with entity id 107145 at ([world]116.2840185475176, 140.0, 45.30000001192093)
+[23:26:16] [Server thread/INFO]: Milkawhy issued server command: /skin update mangaky
+[23:26:18] [Server thread/INFO]: Urzagon issued server command: /skinsupdate
+[23:26:21] [Server thread/INFO]: jambeto lost connection: Disconnected
+[23:26:21] [Server thread/INFO]: [-] jambeto
+[23:26:24] [Server thread/INFO]: mangaky issued server command: /skinsrestorer:skin
+[23:26:28] [Server thread/INFO]: Urzagon issued server command: /skinsrestorer:skin
+[23:26:34] [Server thread/INFO]: mangaky issued server command: /skins update
+[23:26:57] [Server thread/INFO]: Urzagon was slain by mangaky
+[23:27:09] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:27:09] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:28:07] [User Authenticator #17/INFO]: UUID of player jambeto is ad869198-4a29-31b8-a8fe-e799c0d8bcb9
+[23:28:11] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:28:16] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[23:28:16] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[23:28:16] [Server thread/INFO]: [+] jambeto
+[23:28:16] [Server thread/INFO]: jambeto[/127.99.238.124:45149] logged in with entity id 108078 at ([world]1591.0319966517286, 63.0, 44.7843713391318)
+[23:28:58] [Server thread/INFO]: Milkawhy issued server command: /tps
+[23:30:04] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[23:30:04] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[23:32:30] [Server thread/INFO]: jambeto has made the advancement [Best Friends Forever]
+[23:33:45] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:33:48] [Server thread/WARN]: jambeto moved too quickly! 13.032855068526715,2.237799806645498,0.0762319383316381
+[23:33:59] [Server thread/INFO]: mangaky has made the advancement [Sweet Dreams]
+[23:34:15] [Server thread/INFO]: Urzagon has made the advancement [Sweet Dreams]
