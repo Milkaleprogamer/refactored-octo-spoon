@@ -1528,3 +1528,11 @@ java.util.ConcurrentModificationException: null
 [21:10:28] [Server thread/INFO]: jambeto has made the advancement [A Seedy Place]
 [21:12:14] [Server thread/INFO]: sanoo_ms lost connection: Disconnected
 [21:12:14] [Server thread/INFO]: [-] sanoo_ms
+[21:17:36] [Server thread/INFO]: jambeto was slain by Zombie
+[21:17:53] [Server thread/INFO]: jambeto was blown up by Creeper
+[21:20:57] [User Authenticator #9/INFO]: UUID of player LosTomate is f582b554-82e7-3308-898f-bd8313cd85ca
+[21:21:06] [Server thread/INFO]: [+] LosTomate
+[21:21:06] [Server thread/INFO]: LosTomate[/127.151.192.34:54397] logged in with entity id 64277 at ([world]-313.5, 69.0, 84.5)
+[21:21:21] [Server thread/INFO]: LosTomate issued server command: /spawn
+[21:21:32] [Server thread/INFO]: LosTomate issued server command: /spawn
+[21:22:19] [Server thread/INFO]: jambeto was slain by Enderman
