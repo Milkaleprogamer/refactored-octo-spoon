@@ -2633,3 +2633,201 @@ java.util.ConcurrentModificationException: null
 [22:53:26] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
 [22:53:26] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
 [22:53:44] [Server thread/WARN]: Urzagon moved too quickly! -4.694035450556839,0.05177179351449013,19.810559428459783
+[22:54:08] [Server thread/INFO]: Urzagon was slain by Milkawhy using [Golem Hammer]
+[22:54:13] [Server thread/INFO]: Milkawhy issued server command: /clear Urzagon
+[22:54:13] [Server thread/INFO]: [Milkawhy: Removed 39 item(s) from player Urzagon]
+[22:54:21] [Server thread/INFO]: ashixo was slain by Milkawhy using [Golem Hammer]
+[22:54:25] [Server thread/INFO]: Milkawhy issued server command: /clear ashixo
+[22:54:25] [Server thread/INFO]: [Milkawhy: Removed 63 item(s) from player ashixo]
+[22:54:35] [Server thread/WARN]: jambeto moved too quickly! 10.618643093730498,-2.078311354517936,7.593491785867627
+[22:54:37] [Server thread/INFO]: mangaky was slain by jambeto using [Dragon Katana]
+[22:54:41] [Server thread/INFO]: Milkawhy issued server command: /clear mangaky
+[22:54:41] [Server thread/INFO]: [Milkawhy: Removed 132 item(s) from player mangaky]
+[22:54:44] [Server thread/INFO]: Milkawhy issued server command: /clear @a
+[22:54:44] [Server thread/INFO]: [Milkawhy: Removed 265 item(s) from 6 players]
+[22:54:45] [Server thread/INFO]: Milkawhy issued server command: /gamemode creative
+[22:54:45] [Server thread/INFO]: [Milkawhy: Set own game mode to Creative Mode]
+[22:55:15] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/dragon_katana
+[22:55:15] [Server thread/INFO]: [Milkawhy: Running function vred:give/dragon_katana]
+[22:55:29] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[22:55:29] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[22:55:49] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale modifier value get 10
+[22:56:01] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 10
+[22:56:16] [Server thread/INFO]: ashixo drowned
+[22:56:19] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[22:56:24] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 100
+[22:56:40] [Async Chat Thread - #59/INFO]: [Not Secure] <Milkawhy> FIN D EVENT MERCI A VOUS
+[22:56:48] [Async Chat Thread - #59/INFO]: [Not Secure] <Milkawhy> 3 ARMES LEG ON ETAIT GIVE
+[22:56:53] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto
+[22:56:53] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to jambeto]
+[22:57:00] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/fountain_of_youth
+[22:57:00] [Server thread/INFO]: [Milkawhy: Running function vred:give/fountain_of_youth]
+[22:57:36] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[22:57:36] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[22:57:36] [Server thread/INFO]: LosTomate issued server command: /rtp
+[22:57:42] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.5
+[22:57:46] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.1
+[22:57:52] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.001
+[22:57:55] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.00001
+[22:58:39] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[22:58:49] [Server thread/WARN]: jambeto moved too quickly! 4.56591224469048,1.1498511582612991,-19.465833275287878
+[22:59:03] [Server thread/WARN]: jambeto moved too quickly! 19.851651040802608,1.4661032275280377,4.720286045265311
+[22:59:20] [Server thread/INFO]: Urzagon was slain by Zombie
+[22:59:21] [Server thread/INFO]: mangaky was impaled by Drowned
+[22:59:29] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[22:59:29] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[22:59:51] [Server thread/WARN]: jambeto moved too quickly! -0.3880521282553673,19.73138716643153,3.2620227336883545
+[23:00:02] [Server thread/WARN]: jambeto moved too quickly! 9.551152054553313,-18.88982639395344,-1.7655897620807082
+[23:00:19] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 3
+[23:00:22] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 99999
+[23:00:27] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:00:27] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:00:35] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.1
+[23:01:01] [Server thread/INFO]: Milkawhy issued server command: /give @a minecraft:cooked_beef 4
+[23:01:01] [Server thread/INFO]: [Milkawhy: Gave 4 [Steak] to 6]
+[23:01:04] [Server thread/INFO]: Milkawhy issued server command: /give @a minecraft:cooked_beef 4
+[23:01:04] [Server thread/INFO]: [Milkawhy: Gave 4 [Steak] to 6]
+[23:01:11] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 2
+[23:01:15] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:01:28] [Server thread/INFO]: mangaky has made the advancement [Stone Age]
+[23:01:51] [Server thread/INFO]: Milkawhy issued server command: /gamerule keepInventory false
+[23:01:51] [Server thread/INFO]: [Milkawhy: Gamerule keepInventory is now set to: false]
+[23:02:14] [Server thread/WARN]: jambeto moved too quickly! -3.903080399028113,19.179352501976965,3.7582991026292802
+[23:02:24] [Server thread/WARN]: jambeto moved too quickly! -15.10078956828147,5.17816212599574,12.265151468108343
+[23:03:11] [Server thread/WARN]: jambeto moved too quickly! 0.01612645189743489,-10.981744706630707,0.63221250846982
+[23:03:11] [Server thread/INFO]: Milkawhy issued server command: /customcrafting
+[23:03:40] [Server thread/INFO]: Urzagon has made the advancement [Getting an Upgrade]
+[23:04:00] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 100
+[23:04:01] [Server thread/INFO]: mangaky has made the advancement [Getting an Upgrade]
+[23:04:07] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:04:16] [Server thread/WARN]: jambeto moved too quickly! -20.127290049267685,1.6762968698625542,-0.8670423210342051
+[23:04:56] [Server thread/WARN]: jambeto moved too quickly! -9.422203152320435,5.069995066480232,17.14527515716054
+[23:05:30] [Server thread/INFO]: Milkawhy issued server command: /attribute Milkawhy minecraft:generic.scale base set 1
+[23:05:33] [Server thread/INFO]: Milkawhy issued server command: /attribute Milkawhy minecraft:generic.scale base set 0.1
+[23:05:54] [Server thread/INFO]: Milkawhy issued server command: /attribute Milkawhy minecraft:generic.scale base set 0.0001
+[23:05:59] [Server thread/INFO]: Milkawhy issued server command: /attribute Milkawhy minecraft:generic.scale base set 0.0000001
+[23:06:00] [Server thread/WARN]: jambeto moved too quickly! 0.0,19.772220747959963,0.256098484265749
+[23:06:06] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
+[23:06:06] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[23:06:15] [Server thread/WARN]: jambeto moved too quickly! -0.9311371008043352,2.048621675324199,19.997261446686025
+[23:06:22] [Server thread/INFO]: Milkawhy issued server command: /attribute Milkawhy minecraft:generic.scale base set 100
+[23:06:23] [Server thread/INFO]: LosTomate issued server command: /lobby
+[23:06:24] [Server thread/WARN]: jambeto moved too quickly! -1.4570024315416958,11.025747466660093,-16.65416778429517
+[23:06:28] [Server thread/INFO]: Milkawhy issued server command: /attribute Milkawhy minecraft:generic.scale base set 1
+[23:06:53] [Server thread/INFO]: LosTomate issued server command: /spawn
+[23:07:02] [Server thread/INFO]: Urzagon issued server command: /setspawn
+[23:07:02] [Server thread/INFO]: mangaky issued server command: /setspawn:spawn
+[23:07:11] [Server thread/INFO]: Milkawhy issued server command: /spawn
+[23:07:12] [Server thread/INFO]: Urzagon issued server command: /setspawn:spawn
+[23:07:15] [Server thread/INFO]: Milkawhy issued server command: /spawn jambeto
+[23:07:16] [Server thread/INFO]: jambeto issued server command: /spawn
+[23:07:25] [Server thread/INFO]: mangaky issued server command: /setspawn:spawnset
+[23:07:33] [Server thread/INFO]: Urzagon issued server command: /fly
+[23:07:45] [Server thread/INFO]: Urzagon issued server command: /gamemode 0
+[23:09:08] [Server thread/INFO]: Urzagon has made the advancement [Stone Age]
+[23:10:08] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon
+[23:10:08] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to Urzagon]
+[23:10:22] [Server thread/WARN]: jambeto moved too quickly! 8.534340762273587,12.010188917837027,13.082944862763455
+[23:10:28] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto
+[23:10:28] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to jambeto]
+[23:10:36] [Server thread/WARN]: jambeto moved too quickly! 0.009646085818530992,20.24785109963254,0.017062034152331762
+[23:10:40] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Urzagon
+[23:10:40] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Urzagon]
+[23:11:10] [Server thread/WARN]: jambeto moved too quickly! 16.360362771846212,9.222131865513674,-7.777300898785313
+[23:11:24] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate Milkawhy
+[23:11:24] [Server thread/INFO]: [Milkawhy: Teleported LosTomate to Milkawhy]
+[23:11:28] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[23:11:28] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[23:11:32] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[23:11:32] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[23:11:41] [Server thread/INFO]: LosTomate has made the advancement [Sweet Dreams]
+[23:11:58] [Server thread/INFO]: Milkawhy has made the advancement [Sweet Dreams]
+[23:12:08] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[23:12:08] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[23:12:12] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:12:12] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:12:42] [Server thread/INFO]: Milkawhy issued server command: /kill Urzagon
+[23:12:42] [Server thread/INFO]: Urzagon was killed
+[23:12:42] [Server thread/INFO]: [Milkawhy: Killed Urzagon]
+[23:12:51] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:12:51] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:13:21] [Server thread/INFO]: mangaky fell from a high place
+[23:13:32] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[23:13:32] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[23:13:58] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 100
+[23:14:00] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:14:07] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:14:09] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 100
+[23:14:15] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:14:18] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.01
+[23:14:31] [Server thread/WARN]: jambeto moved too quickly! -1.2709003686904907,20.1727371237278,0.3256182330014781
+[23:14:32] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 100
+[23:14:34] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:14:39] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon mangaky
+[23:14:39] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to mangaky]
+[23:14:43] [Server thread/INFO]: Milkawhy issued server command: /clear Urzagon
+[23:14:43] [Server thread/INFO]: [Milkawhy: Removed 32 item(s) from player Urzagon]
+[23:14:52] [Server thread/INFO]: Milkawhy issued server command: /effect clear Urzagon
+[23:14:52] [Server thread/INFO]: [Milkawhy: Removed every effect from Urzagon]
+[23:14:59] [Server thread/INFO]: Urzagon has made the advancement [Isn't It Iron Pick]
+[23:15:13] [Server thread/INFO]: Urzagon was slain by mangaky
+[23:15:15] [Server thread/INFO]: mangaky has made the advancement [Isn't It Iron Pick]
+[23:15:23] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:15:23] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:15:29] [Server thread/INFO]: Urzagon was slain by mangaky
+[23:15:35] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:15:35] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:15:39] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 0.1
+[23:15:45] [Server thread/INFO]: LosTomate has made the advancement [Isn't It Iron Pick]
+[23:15:50] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:15:54] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 100
+[23:15:56] [Server thread/INFO]: Urzagon was slain by mangaky
+[23:16:00] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:16:00] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:16:02] [Server thread/INFO]: Milkawhy issued server command: /attribute Urzagon minecraft:generic.scale base set 1
+[23:16:11] [Server thread/INFO]: Urzagon was slain by mangaky
+[23:16:15] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:16:15] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:16:42] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon Milkawhy
+[23:16:42] [Server thread/INFO]: [Milkawhy: Teleported Urzagon to Milkawhy]
+[23:16:45] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[23:16:45] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[23:17:09] [Async Chat Thread - #61/INFO]: [Not Secure] <Milkawhy> fait /skin
+[23:17:13] [Server thread/INFO]: Milkawhy issued server command: /skins
+[23:17:16] [Server thread/INFO]: mangaky issued server command: /skin
+[23:17:21] [Server thread/INFO]: Milkawhy issued server command: /skinsrestorer:skin
+[23:17:28] [Server thread/INFO]: Urzagon issued server command: /skins
+[23:17:33] [Async Chat Thread - #62/INFO]: [Not Secure] <Milkawhy> ./skin update
+[23:17:39] [Server thread/INFO]: mangaky issued server command: /skin update
+[23:17:48] [Async Chat Thread - #61/INFO]: [Not Secure] <Milkawhy> .skin negro
+[23:17:51] [Server thread/INFO]: Milkawhy issued server command: /skin negro
+[23:17:52] [Server thread/INFO]: mangaky issued server command: /skins negro
+[23:17:56] [Server thread/INFO]: Milkawhy issued server command: /skin hitler
+[23:17:59] [Server thread/INFO]: Milkawhy issued server command: /skin hxxxxf
+[23:18:03] [Server thread/INFO]: mangaky issued server command: /skins Milkawhy
+[23:18:03] [Server thread/INFO]: Milkawhy issued server command: /skin sex
+[23:18:21] [Server thread/INFO]: Milkawhy issued server command: /skin Milkawhy
+[23:18:52] [Server thread/INFO]: mangaky has made the advancement [Diamonds!]
+[23:18:58] [Server thread/INFO]: LosTomate issued server command: /ski
+[23:19:03] [Server thread/INFO]: LosTomate issued server command: /skin
+[23:19:11] [Server thread/INFO]: Milkawhy issued server command: /kill mangaky
+[23:19:11] [Server thread/INFO]: mangaky was killed
+[23:19:11] [Server thread/INFO]: [Milkawhy: Killed mangaky]
+[23:19:54] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[23:19:54] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[23:20:20] [Server thread/INFO]: Urzagon has made the advancement [Ol' Betsy]
+[23:20:25] [Server thread/INFO]: mangaky was doomed to fall by Milkawhy
+[23:20:30] [Server thread/INFO]: Milkawhy issued server command: /tp Urzagon
+[23:20:30] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to Urzagon]
+[23:20:57] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[23:20:57] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[23:22:25] [Server thread/INFO]: Urzagon lost connection: Disconnected
+[23:22:25] [Server thread/INFO]: [-] Urzagon
+[23:23:50] [User Authenticator #15/INFO]: UUID of player Urzagon is 0d14a13b-cab5-3790-a745-dc68d0e2b966
+[23:24:04] [Server thread/INFO]: mangaky issued server command: /setspawn
+[23:24:06] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[23:24:06] [Server thread/INFO]: [+] Urzagon
+[23:24:06] [Server thread/INFO]: Urzagon[/127.136.40.148:37303] logged in with entity id 106604 at ([world]119.28546624121273, 139.0, 52.796496003336486)
+[23:24:13] [Server thread/INFO]: Milkawhy issued server command: /attribute mangaky minecraft:generic.scale base set 100
+[23:24:14] [Server thread/INFO]: Milkawhy issued server command: /attribute mangaky minecraft:generic.scale base set 1
+[23:24:16] [Server thread/INFO]: mangaky issued server command: /setspawn:spawn

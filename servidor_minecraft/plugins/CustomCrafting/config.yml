@@ -147,5 +147,6 @@ recipes:
   pretty_printing: true
   # The vanilla or custom recipes that are blocked from crafting.
   disabled_recipes:
+  - customcrafting:custom_recipe/war_pick
   - customcrafting:customcrafting/recipe_book
   - customcrafting:customcrafting/advanced_crafting_table
