@@ -2172,3 +2172,48 @@ java.util.ConcurrentModificationException: null
 [21:41:35] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
 [21:42:33] [Server thread/INFO]: jambeto was slain by Vex
 [21:42:46] [Server thread/INFO]: LosTomate was slain by Vex
+[21:42:52] [Server thread/INFO]: ashixo has made the advancement [Monster Hunter]
+[21:42:53] [Server thread/INFO]: ashixo was slain by Vex
+[21:43:11] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo Milkawhy
+[21:43:11] [Server thread/INFO]: [Milkawhy: Teleported ashixo to Milkawhy]
+[21:43:13] [Server thread/INFO]: jambeto was slain by LosTomate
+[21:43:27] [Server thread/INFO]: LosTomate was slain by jambeto
+[21:44:04] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo
+[21:44:04] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to ashixo]
+[21:44:08] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto
+[21:44:08] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to jambeto]
+[21:45:30] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo
+[21:45:30] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to ashixo]
+[21:46:23] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:46:23] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:47:13] [Server thread/INFO]: LosTomate has made the advancement [Monster Hunter]
+[21:47:14] [Server thread/INFO]: LosTomate was slain by Vex
+[21:47:17] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:47:17] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:47:27] [Server thread/INFO]: LosTomate was slain by Vex
+[21:47:31] [Server thread/INFO]: jambeto was slain by Vex
+[21:47:37] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:47:37] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:49:03] [Server thread/INFO]: ashixo has reached the goal [Postmortal]
+[21:50:01] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/giveall
+[21:50:01] [Server thread/INFO]: [Milkawhy: Running function vred:give/giveall]
+[21:50:01] [Server thread/INFO]: Milkawhy has made the advancement [Into Fire]
+[21:50:01] [Server thread/INFO]: Milkawhy has reached the goal [Sky's the Limit]
+[21:50:32] [Server thread/INFO]: LosTomate has reached the goal [Postmortal]
+[21:50:39] [Server thread/INFO]: jambeto was slain by LosTomate
+[21:50:49] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:50:49] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:51:42] [Server thread/INFO]: jambeto was slain by Milkawhy
+[21:51:48] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:51:48] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:51:58] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/fountain_of_youth
+[21:51:58] [Server thread/INFO]: [Milkawhy: Running function vred:give/fountain_of_youth]
+[21:52:10] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[21:52:10] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[21:52:22] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[21:52:22] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[21:52:24] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[21:52:24] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[21:52:42] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo Milkawhy
+[21:52:42] [Server thread/INFO]: [Milkawhy: Teleported ashixo to Milkawhy]
+[21:52:47] [Server thread/INFO]: ashixo has made the advancement [Suit Up]
