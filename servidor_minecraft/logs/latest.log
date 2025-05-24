@@ -1450,3 +1450,81 @@ java.util.ConcurrentModificationException: null
 [21:01:20] [Server thread/INFO]: AlwaysReminder lost connection: Disconnected
 [21:01:20] [Server thread/INFO]: [-] AlwaysReminder
 [21:01:44] [Server thread/INFO]: xFelicityx was shot by Skeleton
+[21:03:22] [Server thread/INFO]: Chiffon lost connection: Disconnected
+[21:03:22] [Server thread/INFO]: [-] Chiffon
+[21:03:45] [Server thread/INFO]: sanoo_ms was slain by jambeto
+[21:05:09] [Server thread/INFO]: xFelicityx was shot by Skeleton
+[21:05:24] [Async Chat Thread - #44/INFO]: [Not Secure] <xFelicityx> je re plus tard
+[21:05:28] [Server thread/INFO]: xFelicityx lost connection: Disconnected
+[21:05:28] [Server thread/INFO]: [-] xFelicityx
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world_vred_data_void"
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world_vred_data_void" created
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world_the_end"
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world_the_end" created
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world_nether"
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world_nether" created
+[21:07:11] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world"
+[21:07:18] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world" created
+[21:07:18] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
+[21:07:26] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
+[21:07:26] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
+[21:07:26] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
+[21:07:26] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world_vred_data_void/Backup-world_vred_data_void-2025-5-24--21-07.zip"
+[21:07:26] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[21:07:29] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[21:07:30] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.73 seconds (28.9KB/s)
+[21:07:30] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_vred_data_void-2025-5-24--21-07.zip" complete
+[21:07:30] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world_the_end/Backup-world_the_end-2025-5-24--21-07.zip"
+[21:07:30] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[21:07:32] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[21:07:33] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.21 seconds (23.23KB/s)
+[21:07:33] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2025-5-24--21-07.zip" complete
+[21:07:33] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world_nether/Backup-world_nether-2025-5-24--21-07.zip"
+[21:07:33] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[21:07:36] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[21:07:36] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.2 seconds (78.68KB/s)
+[21:07:36] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2025-5-24--21-07.zip" complete
+[21:07:36] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world/Backup-world-2025-5-24--21-07.zip"
+[21:07:36] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[21:07:41] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[21:07:42] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.71 seconds (18125.68KB/s)
+[21:07:42] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2025-5-24--21-07.zip" complete
+[21:07:42] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/plugins/Backup-plugins-2025-5-24--21-07.zip"
+[21:07:42] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[21:07:47] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.97 seconds (18643.03KB/s)
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2025-5-24--21-07.zip" complete
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2025-5-24--21-07.zip"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world_the_end"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2025-5-24--21-07.zip"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world_the_end"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2025-5-24--21-07.zip"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world_vred_data_void"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_vred_data_void-2025-5-24--21-07.zip"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world_vred_data_void"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world_nether"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2025-5-24--21-07.zip"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world_nether"
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
+[21:07:48] [Craft Scheduler Thread - 571 - DriveBackupV2/INFO]: [DriveBackupV2] Backup took 36 seconds to compleate
+[21:10:28] [Server thread/INFO]: jambeto has made the advancement [A Seedy Place]
+[21:12:14] [Server thread/INFO]: sanoo_ms lost connection: Disconnected
+[21:12:14] [Server thread/INFO]: [-] sanoo_ms
