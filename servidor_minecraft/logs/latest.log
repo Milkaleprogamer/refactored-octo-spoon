@@ -2377,3 +2377,39 @@ java.util.ConcurrentModificationException: null
 [22:22:52] [Server thread/INFO]: Milkawhy issued server command: /tps
 [22:23:04] [Server thread/INFO]: Milkawhy issued server command: /tps
 [22:23:41] [Server thread/INFO]: jambeto was slain by ashixo using [Magma Club]
+[22:23:46] [Server thread/INFO]: LosTomate was slain by ashixo using [Dragon Katana]
+[22:23:46] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:23:46] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:23:52] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:23:52] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:23:54] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:23:54] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:23:56] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate Milkawhy
+[22:23:56] [Server thread/INFO]: [Milkawhy: Teleported LosTomate to Milkawhy]
+[22:25:57] [Server thread/INFO]: ashixo was slain by jambeto using [Excalibur]
+[22:26:03] [Server thread/INFO]: Milkawhy issued server command: /clear @a
+[22:26:03] [Server thread/INFO]: [Milkawhy: Removed 203 item(s) from 4 players]
+[22:26:07] [Server thread/INFO]: Milkawhy issued server command: /tp @a m
+[22:26:08] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:26:08] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:30:01] [User Authenticator #13/INFO]: UUID of player Urzagon is 0d14a13b-cab5-3790-a745-dc68d0e2b966
+[22:30:34] [Server thread/INFO]: [+] Urzagon
+[22:30:34] [Server thread/INFO]: Urzagon[/127.136.40.148:56163] logged in with entity id 82989 at ([world]-300.5, 63.0, 88.5)
+[22:31:25] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:31:25] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:31:45] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:31:45] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:31:54] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:31:54] [Server thread/INFO]: [Milkawhy: Teleported 5 entities to Milkawhy]
+[22:32:31] [Server thread/INFO]: Urzagon was slain by ashixo
+[22:32:33] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:32:33] [Server thread/INFO]: [Milkawhy: Teleported 5 entities to Milkawhy]
+[22:33:09] [User Authenticator #14/INFO]: UUID of player mangaky is a5159b13-57f9-3d9b-9362-ffacd38ac95e
+[22:33:28] [Server thread/INFO]: Urzagon has made the advancement [Cover Me with Diamonds]
+[22:33:28] [Server thread/INFO]: ashixo was slain by jambeto using [Aiglos]
+[22:33:32] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:33:32] [Server thread/INFO]: [Milkawhy: Teleported 5 entities to Milkawhy]
+[22:33:34] [Server thread/INFO]: [+] mangaky
+[22:33:34] [Server thread/INFO]: mangaky[/127.163.80.5:33941] logged in with entity id 83885 at ([world]-305.5, 64.0, 81.5)
+[22:33:36] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:33:36] [Server thread/INFO]: [Milkawhy: Teleported 6 entities to Milkawhy]
