@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Milkawhy",
+      "uniqueId": "52443112-e08e-33a4-b4be-d210d1a4ac46"
+    },
+    "time": 1744748012478,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/aa4gBILHVB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Milkawhy",
+      "uniqueId": "52443112-e08e-33a4-b4be-d210d1a4ac46"
+    },
+    "time": 1744489308111,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KV67Ztbp5t"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Milkawhy",
+      "uniqueId": "52443112-e08e-33a4-b4be-d210d1a4ac46"
+    },
+    "time": 1744489098841,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lr6Wgr2Hva"
+    }
+  }
+]
