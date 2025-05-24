@@ -2865,3 +2865,108 @@ java.util.ConcurrentModificationException: null
 [23:33:48] [Server thread/WARN]: jambeto moved too quickly! 13.032855068526715,2.237799806645498,0.0762319383316381
 [23:33:59] [Server thread/INFO]: mangaky has made the advancement [Sweet Dreams]
 [23:34:15] [Server thread/INFO]: Urzagon has made the advancement [Sweet Dreams]
+[23:35:30] [Server thread/INFO]: LosTomate was slain by Spider
+[23:35:37] [Server thread/INFO]: mangaky has made the advancement [Acquire Hardware]
+[23:35:53] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:36:32] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:36:37] [Server thread/INFO]: Milkawhy issued server command: /execute if score #vred.griefing item_check matches 0 run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~ 1 1 1
+[23:36:39] [Server thread/INFO]: Milkawhy issued server command: /execute if score #vred.griefing item_check matches 0 run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~ 1 1 1
+[23:36:39] [Server thread/INFO]: Milkawhy issued server command: /execute if score #vred.griefing item_check matches 0 run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~ 1 1 1
+[23:36:45] [Server thread/INFO]: Milkawhy issued server command: /execute if score #vred.griefing item_check matches 0 run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~
+[23:36:47] [Server thread/INFO]: Milkawhy issued server command: /execute if score #vred.griefing item_check matches 0 run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~
+[23:36:48] [Server thread/INFO]: Milkawhy issued server command: /execute if score #vred.griefing item_check matches 0 run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~
+[23:36:54] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:36:55] [Server thread/INFO]: Milkawhy issued server command: /execute run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~
+[23:36:55] [Server thread/INFO]: [Milkawhy: Played sound minecraft:entity.generic.explode to 3 players]
+[23:36:59] [Server thread/WARN]: jambeto moved too quickly! -15.885154742879877,11.332291247042122,-4.570526294421484
+[23:37:09] [Server thread/WARN]: jambeto moved too quickly! -10.10041957454473,5.09182367084081,-0.23261577176101866
+[23:37:12] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:37:12] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/aiglos
+[23:37:12] [Server thread/INFO]: [Milkawhy: Running function vred:give/aiglos]
+[23:37:17] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
+[23:37:17] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
+[23:37:17] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world_vred_data_void"
+[23:37:17] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world_vred_data_void" created
+[23:37:17] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world_the_end"
+[23:37:18] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world_the_end" created
+[23:37:18] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world_nether"
+[23:37:18] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world_nether" created
+[23:37:18] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "./world"
+[23:37:28] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "./world" created
+[23:37:28] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
+[23:37:32] [Server thread/WARN]: jambeto moved too quickly! -7.437246186081211,8.630905335739115,-16.63466511969304
+[23:37:36] [Server thread/INFO]: LosTomate was slain by Zombie
+[23:37:38] [Server thread/INFO]: Milkawhy issued server command: /execute run playsound minecraft:entity.generic.explode hostile @a[distance=..60] ~ ~ ~ 1 1 1
+[23:37:38] [Server thread/INFO]: [Milkawhy: Played sound minecraft:entity.generic.explode to 3 players]
+[23:37:39] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
+[23:37:39] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
+[23:37:39] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
+[23:37:39] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world_vred_data_void/Backup-world_vred_data_void-2025-5-24--23-37.zip"
+[23:37:39] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[23:37:42] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[23:37:42] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.54 seconds (31.23KB/s)
+[23:37:42] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_vred_data_void-2025-5-24--23-37.zip" complete
+[23:37:42] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world_the_end/Backup-world_the_end-2025-5-24--23-37.zip"
+[23:37:42] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[23:37:45] [Server thread/WARN]: jambeto moved too quickly! -11.579717678614998,6.46178871203945,1.3153393883408313
+[23:37:45] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[23:37:46] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.27 seconds (22.87KB/s)
+[23:37:46] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2025-5-24--23-37.zip" complete
+[23:37:46] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world_nether/Backup-world_nether-2025-5-24--23-37.zip"
+[23:37:46] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[23:37:48] [Server thread/INFO]: LosTomate was slain by Zombie
+[23:37:49] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[23:37:49] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.52 seconds (71.52KB/s)
+[23:37:49] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2025-5-24--23-37.zip" complete
+[23:37:49] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/world/Backup-world-2025-5-24--23-37.zip"
+[23:37:49] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[23:37:55] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[23:37:56] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 6.5 seconds (19038.89KB/s)
+[23:37:56] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2025-5-24--23-37.zip" complete
+[23:37:56] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "/workspaces/refactored-octo-spoon/servidor_minecraft/backups/plugins/Backup-plugins-2025-5-24--23-37.zip"
+[23:37:56] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
+[23:38:01] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 11 file(s) for the current backup location in Google Drive which exceeds the limit of 10, deleting
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.81 seconds (19142.13KB/s)
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2025-5-24--23-37.zip" complete
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2025-5-24--23-37.zip"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world_the_end"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2025-5-24--23-37.zip"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world_the_end"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2025-5-24--23-37.zip"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world_vred_data_void"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_vred_data_void-2025-5-24--23-37.zip"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world_vred_data_void"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "./world_nether"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2025-5-24--23-37.zip"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "./world_nether"
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
+[23:38:02] [Craft Scheduler Thread - 1209 - DriveBackupV2/INFO]: [DriveBackupV2] Backup took 44 seconds to compleate
+[23:38:02] [Server thread/INFO]: ashixo lost connection: Timed out
+[23:38:02] [Server thread/INFO]: [-] ashixo
+[23:39:16] [Server thread/INFO]: LosTomate was shot by Skeleton
+[23:39:24] [Server thread/WARN]: jambeto moved too quickly! 11.495708286828403,8.739769130596386,13.970703249576786
+[23:40:03] [Server thread/INFO]: LosTomate was blown up by Creeper
+[23:40:11] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
+[23:40:11] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[23:40:17] [Server thread/INFO]: jambeto was slain by Enderman
+[23:40:28] [Server thread/INFO]: LosTomate was slain by Enderman
+[23:40:47] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[23:40:47] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[23:41:09] [Server thread/INFO]: Milkawhy lost connection: Disconnected
+[23:41:09] [Server thread/INFO]: [-] Milkawhy
