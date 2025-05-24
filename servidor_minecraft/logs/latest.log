@@ -1437,3 +1437,16 @@ java.util.ConcurrentModificationException: null
 [20:49:40] [Async Chat Thread - #37/INFO]: [Not Secure] <xFelicityx> enfin chffon est de retour
 [20:49:49] [Server thread/INFO]: [+] Chiffon
 [20:49:49] [Server thread/INFO]: Chiffon[/127.44.161.38:37023] logged in with entity id 56413 at ([world]-175.72769602106126, 97.0, 0.44405537416716706)
+[20:51:57] [Server thread/INFO]: Chiffon was slain by Zombie
+[20:53:31] [Server thread/INFO]: xFelicityx hit the ground too hard
+[20:57:37] [User Authenticator #8/INFO]: UUID of player sanoo_ms is c3f797da-18a9-3034-a277-b9e6ee7e6334
+[20:57:46] [Server thread/INFO]: [+] sanoo_ms
+[20:57:46] [Server thread/INFO]: sanoo_ms[/127.160.39.72:53785] logged in with entity id 58683 at ([world]1602.0541704613297, 55.0, 23.95425605614389)
+[20:58:02] [Async Chat Thread - #39/INFO]: [Not Secure] <Chiffon> mus boosted
+[21:00:14] [Server thread/INFO]: Chiffon has made the advancement [Sneak 100]
+[21:01:02] [Server thread/INFO]: jambeto was slain by AlwaysReminder
+[21:01:08] [Async Chat Thread - #41/INFO]: [Not Secure] <xFelicityx> mdrrr
+[21:01:11] [Async Chat Thread - #42/INFO]: [Not Secure] <Chiffon> ez
+[21:01:20] [Server thread/INFO]: AlwaysReminder lost connection: Disconnected
+[21:01:20] [Server thread/INFO]: [-] AlwaysReminder
+[21:01:44] [Server thread/INFO]: xFelicityx was shot by Skeleton
