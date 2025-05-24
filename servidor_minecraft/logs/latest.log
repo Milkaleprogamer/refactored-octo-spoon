@@ -2217,3 +2217,124 @@ java.util.ConcurrentModificationException: null
 [21:52:42] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo Milkawhy
 [21:52:42] [Server thread/INFO]: [Milkawhy: Teleported ashixo to Milkawhy]
 [21:52:47] [Server thread/INFO]: ashixo has made the advancement [Suit Up]
+[21:54:36] [Server thread/INFO]: jambeto was slain by LosTomate
+[21:54:36] [Server thread/INFO]: Milkawhy issued server command: /gamerule keepInventory true
+[21:54:36] [Server thread/INFO]: [Milkawhy: Gamerule keepInventory is now set to: true]
+[21:54:45] [Server thread/INFO]: ashixo was slain by LosTomate
+[21:55:01] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:55:01] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:55:54] [Async Chat Thread - #47/INFO]: [Not Secure] <Milkawhy> LosTomate une win
+[21:56:20] [Server thread/INFO]: Milkawhy issued server command: /tps
+[21:56:22] [Server thread/INFO]: ashixo was slain by jambeto
+[21:56:26] [Server thread/INFO]: jambeto was slain by LosTomate
+[21:56:30] [Async Chat Thread - #48/INFO]: [Not Secure] <Milkawhy> LosTomate deux win
+[21:56:34] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:56:34] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:57:02] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/golem_hammer
+[21:57:02] [Server thread/INFO]: [Milkawhy: Running function vred:give/golem_hammer]
+[21:57:35] [Server thread/INFO]: LosTomate was slain by jambeto
+[21:57:48] [Server thread/INFO]: ashixo was slain by jambeto
+[21:57:53] [Async Chat Thread - #49/INFO]: [Not Secure] <Milkawhy> jambeto une win
+[21:57:55] [Async Chat Thread - #50/INFO]: [Not Secure] <Milkawhy> LosTomate deux win
+[21:58:08] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/aiglos
+[21:58:08] [Server thread/INFO]: [Milkawhy: Running function vred:give/aiglos]
+[21:58:16] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:58:16] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:58:16] [Async Chat Thread - #50/INFO]: [Not Secure] <LosTomate> L2/J1/A0
+[21:58:34] [Async Chat Thread - #49/INFO]: [Not Secure] <jambeto> ty
+[21:58:39] [Server thread/INFO]: Milkawhy issued server command: /kill LosTomate
+[21:58:39] [Server thread/INFO]: LosTomate was killed
+[21:58:39] [Server thread/INFO]: [Milkawhy: Killed LosTomate]
+[21:58:51] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[21:58:51] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[21:59:49] [Server thread/INFO]: LosTomate was slain by jambeto using [Aiglos]
+[21:59:56] [Server thread/INFO]: ashixo was slain by jambeto using [Aiglos]
+[22:00:09] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/sonic_crossbow
+[22:00:09] [Server thread/INFO]: [Milkawhy: Running function vred:give/sonic_crossbow]
+[22:00:11] [Async Chat Thread - #51/INFO]: [Not Secure] <LosTomate> 2/2/0
+[22:00:17] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:00:17] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:01:00] [Server thread/INFO]: jambeto has made the advancement [Ol' Betsy]
+[22:01:36] [Server thread/INFO]: LosTomate was slain by jambeto using [Aiglos]
+[22:01:46] [Server thread/INFO]: ashixo was slain by jambeto using [Aiglos]
+[22:01:51] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:01:51] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:02:16] [Server thread/INFO]: LosTomate was obliterated by a sonically-charged shriek while trying to escape jambeto wielding [Sonic Crossbow]
+[22:02:21] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:02:21] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:02:44] [Server thread/INFO]: LosTomate was obliterated by a sonically-charged shriek while trying to escape jambeto wielding [Sonic Crossbow]
+[22:02:46] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:02:46] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:03:05] [Server thread/INFO]: jambeto was slain by LosTomate using [Aiglos]
+[22:03:11] [Server thread/INFO]: ashixo has made the advancement [Ol' Betsy]
+[22:03:15] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:03:15] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:03:44] [Server thread/INFO]: ashixo fell from a high place
+[22:03:47] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:03:47] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:03:51] [Server thread/INFO]: jambeto was slain by LosTomate
+[22:03:53] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:03:53] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:04:03] [Server thread/INFO]: LosTomate was doomed to fall by ashixo using [Sonic Crossbow]
+[22:04:05] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:04:05] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:04:07] [Server thread/INFO]: ashixo was slain by LosTomate
+[22:04:08] [Server thread/INFO]: Milkawhy issued server command: /clear @a
+[22:04:08] [Server thread/INFO]: [Milkawhy: Removed 48 item(s) from 4 players]
+[22:04:10] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:04:10] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:04:37] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:04:37] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:04:40] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:04:40] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:05:41] [Server thread/INFO]: LosTomate fell from a high place
+[22:06:00] [Server thread/INFO]: LosTomate issued server command: /f claim
+[22:06:13] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/aiglos
+[22:06:13] [Server thread/INFO]: [Milkawhy: Running function vred:give/aiglos]
+[22:06:27] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/emerald_sword
+[22:06:27] [Server thread/INFO]: [Milkawhy: Running function vred:give/emerald_sword]
+[22:06:45] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:06:45] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:07:27] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:07:27] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:07:55] [Server thread/INFO]: Milkawhy issued server command: /clear @a
+[22:07:55] [Server thread/INFO]: [Milkawhy: Removed 13 item(s) from 4 players]
+[22:08:06] [Server thread/INFO]: Milkawhy issued server command: /tp @a Milkawhy
+[22:08:06] [Server thread/INFO]: [Milkawhy: Teleported 4 entities to Milkawhy]
+[22:09:07] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo Milkawhy
+[22:09:07] [Server thread/INFO]: [Milkawhy: Teleported ashixo to Milkawhy]
+[22:09:31] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/golem_hammer
+[22:09:31] [Server thread/INFO]: [Milkawhy: Running function vred:give/golem_hammer]
+[22:09:39] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/sonic_crossbow
+[22:09:39] [Server thread/INFO]: [Milkawhy: Running function vred:give/sonic_crossbow]
+[22:09:44] [Server thread/INFO]: jambeto has reached the goal [...How to get down?]
+[22:09:50] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/death_note
+[22:09:50] [Server thread/INFO]: [Milkawhy: Running function vred:give/death_note]
+[22:09:57] [Server thread/INFO]: jambeto fell from a high place
+[22:10:01] [Server thread/INFO]: LosTomate fell from a high place
+[22:10:05] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/dragon_katana
+[22:10:05] [Server thread/INFO]: [Milkawhy: Running function vred:give/dragon_katana]
+[22:10:19] [Server thread/INFO]: LosTomate was slain by jambeto using [Golem Hammer]
+[22:10:24] [Server thread/INFO]: Milkawhy issued server command: /clear jambeto
+[22:10:27] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto
+[22:10:27] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to jambeto]
+[22:10:35] [Server thread/INFO]: Milkawhy issued server command: /clear jambeto
+[22:10:41] [Server thread/INFO]: Milkawhy issued server command: /gamemode spectator
+[22:10:41] [Server thread/INFO]: [Milkawhy: Set own game mode to Spectator Mode]
+[22:10:53] [Server thread/INFO]: Milkawhy issued server command: /gamemode creative
+[22:10:53] [Server thread/INFO]: [Milkawhy: Set own game mode to Creative Mode]
+[22:10:57] [Server thread/INFO]: Milkawhy issued server command: /clear LosTomate
+[22:11:29] [Server thread/INFO]: jambeto was slain by LosTomate
+[22:11:55] [Server thread/INFO]: Milkawhy issued server command: /tp ashixo
+[22:11:55] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to ashixo]
+[22:12:13] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:12:13] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:12:36] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/excalibur
+[22:12:36] [Server thread/INFO]: [Milkawhy: Running function vred:give/excalibur]
+[22:12:50] [Server thread/INFO]: jambeto fell from a high place
+[22:12:52] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:12:52] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:12:59] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[22:12:59] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[22:13:08] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate Milkawhy
+[22:13:08] [Server thread/INFO]: [Milkawhy: Teleported LosTomate to Milkawhy]
