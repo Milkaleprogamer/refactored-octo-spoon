@@ -21,9 +21,29 @@ regions:
             unique-ids: [a3c36d08-fbe6-3e72-98b0-05f745ef4f49, d662085b-a7dc-35e8-a00d-950021b0a44e]
         type: cuboid
         priority: 0
+    admin2:
+        min: {x: 137, y: 48, z: -296}
+        max: {x: 174, y: 102, z: -267}
+        members: {}
+        flags: {other-explosion: deny, wither-damage: deny, creeper-explosion: deny,
+            use: allow, block-break: deny, tnt: deny, chest-access: allow, pvp: allow,
+            ghast-fireball: deny, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
     admin0:
         min: {x: -190, y: 92, z: -24}
         max: {x: -170, y: 112, z: -3}
+        members: {}
+        flags: {other-explosion: deny, wither-damage: deny, creeper-explosion: deny,
+            use: allow, block-break: deny, tnt: deny, chest-access: allow, pvp: allow,
+            ghast-fireball: deny, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    admin3:
+        min: {x: -9989, y: 46, z: 4779}
+        max: {x: -9828, y: 136, z: 4933}
         members: {}
         flags: {other-explosion: deny, wither-damage: deny, creeper-explosion: deny,
             use: allow, block-break: deny, tnt: deny, chest-access: allow, pvp: allow,
