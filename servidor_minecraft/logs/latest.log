@@ -2970,3 +2970,8 @@ java.util.ConcurrentModificationException: null
 [23:40:47] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
 [23:41:09] [Server thread/INFO]: Milkawhy lost connection: Disconnected
 [23:41:09] [Server thread/INFO]: [-] Milkawhy
+[23:50:59] [Server thread/WARN]: jambeto moved too quickly! 10.935519832907858,11.280426650890576,12.860078864371602
+[23:52:05] [Server thread/WARN]: jambeto moved too quickly! 0.003856092101386821,20.24813599859094,-0.1144165796858232
+[23:52:36] [Server thread/WARN]: jambeto moved too quickly! -9.68056123168617,11.132240275490759,13.68470672073493
+[23:54:50] [Server thread/INFO]: Urzagon was shot by Skeleton
+[23:54:58] [Server thread/INFO]: mangaky was shot by Skeleton
