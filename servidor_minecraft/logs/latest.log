@@ -54,3 +54,52 @@
 [00:15:15] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
 [00:15:15] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
 [00:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[00:15:41] [Server thread/INFO]: Urzagon fell from a high place
+[00:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13094ms or 261 ticks behind
+[00:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14346ms or 286 ticks behind
+[00:17:02] [Server thread/WARN]: jambeto moved too quickly! 12.08367179003426,5.765052972137781,15.683248369060244
+[00:17:16] [Server thread/INFO]: mangaky was slain by Urzagon
+[00:17:32] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
+[00:17:34] [Server thread/WARN]: jambeto moved too quickly! -0.022238741612227386,19.92757219631956,0.0
+[00:17:45] [Server thread/INFO]: Urzagon drowned
+[00:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[00:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[00:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[00:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[00:21:03] [Server thread/WARN]: Birch Boat (vehicle of mangaky) moved wrongly! 0.2671927145572681
+[00:21:03] [Server thread/WARN]: Birch Boat (vehicle of mangaky) moved wrongly! 0.5691977547248825
+[00:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[00:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[00:24:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[00:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[00:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[00:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[00:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[00:26:10] [Server thread/INFO]: mangaky lost connection: Timed out
+[00:26:10] [Server thread/INFO]: [-] mangaky
+[00:26:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[00:26:24] [Server thread/WARN]: jambeto moved too quickly! 7.52043309648252,2.39299378481347,-17.31505454373601
+[00:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5609ms or 112 ticks behind
+[00:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[00:29:15] [User Authenticator #19/INFO]: UUID of player mangaky is a5159b13-57f9-3d9b-9362-ffacd38ac95e
+[00:29:16] [Server thread/INFO]: Urzagon lost connection: Disconnected
+[00:29:16] [Server thread/INFO]: [-] Urzagon
+[00:29:34] [User Authenticator #19/INFO]: UUID of player Milkawhy is 52443112-e08e-33a4-b4be-d210d1a4ac46
+[00:29:40] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[00:29:40] [Server thread/ERROR]: Tried to load unrecognized recipe: customcrafting:cc_display.custom_recipe/war_pick removed now.
+[00:29:40] [Server thread/INFO]: [+] Milkawhy
+[00:29:40] [Server thread/INFO]: Milkawhy[/127.152.86.142:49453] logged in with entity id 151206 at ([world]124.99907801905967, 138.20819999363422, 57.29895499674988)
+[00:29:46] [Server thread/INFO]: [+] mangaky
+[00:29:46] [Server thread/INFO]: mangaky[/127.163.80.5:43037] logged in with entity id 151015 at ([world]1484.9413639157135, 63.0, 2369.7889279712576)
+[00:29:58] [Server thread/INFO]: Milkawhy issued server command: /gamemode creative
+[00:29:58] [Server thread/INFO]: [Milkawhy: Set own game mode to Creative Mode]
+[00:30:07] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
+[00:30:07] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[00:30:21] [Server thread/INFO]: mangaky lost connection: Disconnected
+[00:30:21] [Server thread/INFO]: [-] mangaky
+[00:30:45] [Server thread/INFO]: Milkawhy issued server command: /tp sanoo_ms
+[00:30:45] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to sanoo_ms]
+[00:30:52] [Server thread/WARN]: jambeto moved too quickly! -11.587307532063733,13.311889577484685,-9.38305088667154
+[00:30:54] [Server thread/INFO]: Milkawhy issued server command: /spawn
+[00:34:44] [Server thread/INFO]: LosTomate was slain by Zombie
+[00:36:29] [Server thread/WARN]: jambeto moved too quickly! 19.098817147262935,2.0641713064975704,7.099871262636427
