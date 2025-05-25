@@ -701,3 +701,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7:
 [02:18:26] [Server thread/WARN]: jambeto moved too quickly! 19.403834294407034,4.667788445949554,2.7202147913360335
 [02:18:29] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
 [02:18:31] [Server thread/INFO]: jambeto was slain by Zombie
+[02:18:44] [Server thread/WARN]: jambeto moved too quickly! -17.94968452878129,0.7424170651456734,0.7119059046678657
+[02:18:53] [Server thread/WARN]: jambeto moved too quickly! 12.273797927097121,9.184684667810473,-9.829128082569092
+[02:19:09] [Server thread/INFO]: Milkawhy issued server command: /effect clear jambeto
+[02:19:09] [Server thread/INFO]: [Milkawhy: Removed every effect from jambeto]
+[02:19:09] [Server thread/INFO]: jambeto was slain by Zombie
+[02:19:17] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:19:36] [Server thread/INFO]: jambeto was slain by Zombie
+[02:20:03] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:20:19] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:20:36] [Server thread/INFO]: jambeto was slain by Zombie
+[02:20:50] [Server thread/INFO]: Milkawhy issued server command: /gamerule doFireTick true
+[02:20:50] [Server thread/INFO]: [Milkawhy: Gamerule doFireTick is now set to: true]
+[02:21:05] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:21:06] [Server thread/INFO]: Milkawhy issued server command: /weather rain
+[02:21:06] [Server thread/INFO]: [Milkawhy: Set the weather to rain]
+[02:21:07] [Server thread/INFO]: jambeto was slain by Zombie
+[02:21:15] [Server thread/INFO]: jambeto was slain by Zombie
+[02:21:18] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:21:23] [Server thread/INFO]: jambeto was slain by Zombie
+[02:21:25] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:21:29] [Server thread/INFO]: jambeto was slain by Zombie using [Dragon Katana]
+[02:21:35] [Server thread/INFO]: LosTomate was slain by Zombie using [Dragon Katana]
+[02:21:47] [Server thread/INFO]: LosTomate was slain by Zombie using [Dragon Katana]
+[02:21:53] [Server thread/INFO]: LosTomate was slain by Zombie using [Dragon Katana]
+[02:21:55] [Server thread/INFO]: mangaky fell from a high place
+[02:21:58] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:22:02] [Server thread/INFO]: jambeto was slain by Zombie using [Dragon Katana]
+[02:22:06] [Server thread/INFO]: LosTomate was slain by Zombie using [Dragon Katana]
+[02:22:08] [Server thread/INFO]: LosTomate was slain by Zombie using [Dragon Katana]
+[02:22:41] [Server thread/INFO]: LosTomate was blown up by Creeper
+[02:24:59] [Server thread/WARN]: jambeto moved too quickly! -10.414763336921169,2.327028527184865,17.10257321700623
+[02:25:06] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
+[02:25:08] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[02:25:08] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[02:25:17] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
+[02:25:29] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
+[02:25:50] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
+[02:26:30] [Server thread/INFO]: jambeto lost connection: Disconnected
+[02:26:30] [Server thread/INFO]: [-] jambeto
+[02:26:39] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[02:26:39] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
