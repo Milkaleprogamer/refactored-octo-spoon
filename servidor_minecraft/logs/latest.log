@@ -196,3 +196,27 @@
 [00:44:47] [Server thread/INFO]: Milkawhy issued server command: /tps
 [00:46:15] [Server thread/WARN]: jambeto moved too quickly! 0.0,20.0,0.0
 [00:46:17] [Server thread/INFO]: jambeto fell from a high place
+[00:47:26] [Server thread/INFO]: Milkawhy issued server command: /tps
+[00:47:27] [Server thread/INFO]: Milkawhy issued server command: /tps
+[00:49:45] [Server thread/INFO]: Milkawhy issued server command: /itemedit rename &4&lTEST
+[00:50:01] [Server thread/INFO]: LosTomate was slain by jambeto using [Dragon Katana]
+[00:50:08] [Server thread/INFO]: Milkawhy issued server command: /itemedit rename &6&lRevenge &4&lCrossbow
+[00:50:43] [Server thread/INFO]: sanoo_ms lost connection: Disconnected
+[00:50:43] [Server thread/INFO]: [-] sanoo_ms
+[00:52:07] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
+[00:52:07] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[00:55:03] [Server thread/INFO]: LosTomate was shot by Skeleton
+[00:57:46] [Server thread/INFO]: jambeto was shot by Skeleton
+[00:58:43] [Server thread/INFO]: Milkawhy issued server command: /give LosTomate minecraft:iron_pickaxe
+[00:58:43] [Server thread/INFO]: [Milkawhy: Gave 1 [Iron Pickaxe] to LosTomate]
+[00:59:36] [Server thread/WARN]: jambeto moved too quickly! 15.863431410084559,5.557662052283064,11.203508385321712
+[00:59:50] [Server thread/WARN]: jambeto moved too quickly! -17.306554317474365,0.705646722912789,9.993419647216797
+[01:01:53] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
+[01:01:53] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[01:03:56] [Server thread/WARN]: jambeto moved too quickly! 4.4899240136146545,18.757656750976892,5.586888790130615
+[01:04:16] [Server thread/INFO]: Milkawhy issued server command: /gamemode spectator
+[01:04:16] [Server thread/INFO]: [Milkawhy: Set own game mode to Spectator Mode]
+[01:04:23] [Server thread/INFO]: Milkawhy issued server command: /gamemode creative
+[01:04:23] [Server thread/INFO]: [Milkawhy: Set own game mode to Creative Mode]
+[01:05:02] [Server thread/INFO]: Milkawhy lost connection: Disconnected
+[01:05:02] [Server thread/INFO]: [-] Milkawhy
