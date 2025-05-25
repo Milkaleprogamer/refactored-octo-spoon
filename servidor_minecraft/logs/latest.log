@@ -342,3 +342,56 @@
 [01:57:28] [Server thread/INFO]: [Milkawhy: Running function vred:give/weapon_skins/dragon_katana1]
 [01:57:49] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
 [01:57:49] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[01:58:34] [User Authenticator #22/INFO]: UUID of player mangaky is a5159b13-57f9-3d9b-9362-ffacd38ac95e
+[01:58:40] [Server thread/INFO]: [+] mangaky
+[01:58:40] [Server thread/INFO]: mangaky[/127.163.80.5:47677] logged in with entity id 174092 at ([world]1449.4223131179197, 63.0, 2414.9172074061726)
+[01:58:44] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[01:58:44] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[01:59:04] [Server thread/INFO]: Milkawhy issued server command: /tp LosTomate
+[01:59:04] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to LosTomate]
+[01:59:07] [Server thread/INFO]: mangaky issued server command: /spawn
+[01:59:26] [Server thread/INFO]: mangaky issued server command: /spawn
+[01:59:40] [Server thread/INFO]: Milkawhy issued server command: /spawn mangaky
+[02:00:21] [Server thread/INFO]: Milkawhy issued server command: /itemedit attribute add attack_damage 10
+[02:00:41] [Server thread/INFO]: LosTomate fell from a high place
+[02:00:42] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[02:00:42] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[02:00:43] [Server thread/INFO]: mangaky was slain by Zombie
+[02:00:47] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[02:00:47] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[02:00:55] [Server thread/WARN]: Milkawhy moved too quickly! 18.06954161026249,3.0313068628311157,8.007727861404419
+[02:01:10] [Server thread/WARN]: Milkawhy moved too quickly! 20.264915265841182,-5.1195597648620605,0.5376769111674378
+[02:01:15] [Server thread/WARN]: jambeto moved too quickly! -14.698838541017722,0.8357761055231094,-13.66365194770188
+[02:01:20] [Server thread/WARN]: Milkawhy moved too quickly! 17.609802839004544,-5.219584703445435,-13.529453939861156
+[02:01:30] [Server thread/WARN]: Milkawhy moved too quickly! 12.043642111461537,-14.858175262035672,-11.131526319120809
+[02:01:33] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[02:01:33] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[02:01:38] [Server thread/WARN]: jambeto moved too quickly! 0.0,-13.400000005960464,0.0
+[02:01:54] [Server thread/INFO]: jambeto was slain by LosTomate
+[02:02:05] [Server thread/INFO]: mangaky has made the advancement [Ol' Betsy]
+[02:02:19] [Server thread/WARN]: Milkawhy moved too quickly! -9.548553489736094,-1.06525008042766,4.8878868781920914
+[02:02:34] [Server thread/INFO]: Milkawhy issued server command: /tps
+[02:02:43] [Server thread/INFO]: LosTomate was slain by Zombie
+[02:03:21] [Server thread/INFO]: mangaky was blown up by Creeper
+[02:03:40] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky Milkawhy
+[02:03:40] [Server thread/INFO]: [Milkawhy: Teleported mangaky to Milkawhy]
+[02:03:58] [Server thread/WARN]: jambeto moved too quickly! -0.038049826599944936,17.367600002288803,0.0
+[02:04:09] [Server thread/INFO]: LosTomate was shot by Skeleton
+[02:04:32] [Server thread/INFO]: Milkawhy issued server command: /gamemode survival
+[02:04:32] [Server thread/INFO]: [Milkawhy: Set own game mode to Survival Mode]
+[02:04:36] [Server thread/INFO]: Milkawhy was obliterated by a sonically-charged shriek while trying to escape mangaky wielding [Revenge Crossbow]
+[02:04:41] [Server thread/INFO]: Milkawhy issued server command: /tp mangaky
+[02:04:41] [Server thread/INFO]: [Milkawhy: Teleported Milkawhy to mangaky]
+[02:04:50] [Server thread/INFO]: Milkawhy issued server command: /gamemode creative
+[02:04:50] [Server thread/INFO]: [Milkawhy: Set own game mode to Creative Mode]
+[02:05:15] [Server thread/INFO]: Milkawhy issued server command: /tp jambeto Milkawhy
+[02:05:15] [Server thread/INFO]: [Milkawhy: Teleported jambeto to Milkawhy]
+[02:05:31] [Server thread/WARN]: jambeto moved too quickly! 4.147774146607134,14.98066213553247,-12.741304720047523
+[02:05:59] [Server thread/INFO]: Milkawhy issued server command: /function vred:give/weapon_skins/dragon_katana1
+[02:05:59] [Server thread/INFO]: [Milkawhy: Running function vred:give/weapon_skins/dragon_katana1]
+[02:06:42] [Server thread/INFO]: LosTomate fell from a high place
+[02:06:43] [Server thread/WARN]: Milkawhy moved too quickly! 15.45999124886933,0.8840277399568208,13.094268398973519
+[02:06:49] [Server thread/WARN]: jambeto moved too quickly! 8.075991868972778,-18.360415779209262,0.6401131302118301
+[02:08:06] [Server thread/WARN]: jambeto moved too quickly! -1.313491719084766,16.69800825011744,-7.96329599798441
+[02:08:17] [Server thread/WARN]: jambeto moved too quickly! 16.94841980934143,2.987706959247589,-10.187814235687256
+[02:08:19] [Server thread/WARN]: Milkawhy moved too quickly! 9.448767006397247,-1.6719133034348488,-11.528219282627106
